@@ -1,2 +1,4 @@
 .idea
 java_core.iml
+*.class
+target
