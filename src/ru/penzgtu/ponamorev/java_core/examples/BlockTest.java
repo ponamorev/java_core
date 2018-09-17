@@ -1,4 +1,4 @@
-package ru.penzgtu.ponamorev.java_core.chapter3;
+package ru.penzgtu.ponamorev.java_core.examples;
 
 /*
     Продемонстрировать применение блока кода.
